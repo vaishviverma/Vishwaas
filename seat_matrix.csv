@@ -1,0 +1,648 @@
+College Name,Branches,Seats
+iit-bhubaneswar,Branch,Seats
+iit-bhubaneswar,Civil Engineering - Gender Neutral,56
+iit-bhubaneswar,Civil Engineering - Female Only,12
+iit-bhubaneswar,Computer Science and Engineering - Gender Neutral,54
+iit-bhubaneswar,Computer Science and Engineering - Female Only,14
+iit-bhubaneswar,Electrical Engineering - Gender Neutral,55
+iit-bhubaneswar,Electrical Engineering - Female Only,13
+iit-bhubaneswar,Electronics and Communication Engineering - Gender Neutral,44
+iit-bhubaneswar,Electronics and Communication Engineering - Female Only,10
+iit-bhubaneswar,Mechanical Engineering - Gender Neutral,54
+iit-bhubaneswar,Mechanical Engineering - Female Only,14
+iit-bhubaneswar,Metallurgical and Materials Engineering - Gender Neutral,21
+iit-bhubaneswar,Metallurgical and Materials Engineering - Female Only,6
+iit-bhubaneswar,Civil Engineering and M. Tech. in Structural Engineering - Gender Neutral,11
+iit-bhubaneswar,Civil Engineering and M. Tech. in Structural Engineering - Female Only,3
+iit-bhubaneswar,Civil Engineering and M.Tech in Transportation Engineering - Gender Neutral,10
+iit-bhubaneswar,Civil Engineering and M.Tech in Transportation Engineering - Female Only,4
+iit-bhubaneswar,Civil Engineering and M.Tech. in Environmental Engineering - Gender Neutral,10
+iit-bhubaneswar,Civil Engineering and M.Tech. in Environmental Engineering - Female Only,3
+iit-bhubaneswar,Computer Science and Engineering - Gender Neutral,11
+iit-bhubaneswar,Computer Science and Engineering - Female Only,3
+iit-bhubaneswar,Electrical Engineering and M.Tech Power Electronics and Drives - Gender Neutral,11
+iit-bhubaneswar,Electrical Engineering and M.Tech Power Electronics and Drives - Female Only,3
+iit-bhubaneswar,Mechanical Engineering and M. Tech. in Mechanical System Design - Gender Neutral,12
+iit-bhubaneswar,Mechanical Engineering and M. Tech. in Mechanical System Design - Female Only,2
+iit-bhubaneswar,Mechanical Engineering and M. Tech. in Thermal Science & Engineering - Gender Neutral,11
+iit-bhubaneswar,Mechanical Engineering and M. Tech. in Thermal Science & Engineering - Female Only,3
+iit-bhubaneswar,Mechanical Engineering with M.Tech. in Manufacturing Engineering - Gender Neutral,11
+iit-bhubaneswar,Mechanical Engineering with M.Tech. in Manufacturing Engineering - Female Only,2
+iit-bhubaneswar,Metallurgical and Materials Engineering - Gender Neutral,11
+iit-bhubaneswar,Metallurgical and Materials Engineering - Female Only,2
+iit-bhubaneswar,Total,476
+iit-bombay,Branch,Seats
+iit-bombay,Aerospace Engineering - Gender Neutral,63
+iit-bombay,Aerospace Engineering - Female Only,17
+iit-bombay,Chemical Engineering - Gender Neutral,118
+iit-bombay,Chemical Engineering - Female Only,28
+iit-bombay,Civil Engineering - Gender Neutral,136
+iit-bombay,Civil Engineering - Female Only,34
+iit-bombay,Computer Science and Engineering - Gender Neutral,146
+iit-bombay,Computer Science and Engineering - Female Only,38
+iit-bombay,Electrical Engineering - Gender Neutral,90
+iit-bombay,Electrical Engineering - Female Only,23
+iit-bombay,Energy Engineering - Gender Neutral,38
+iit-bombay,Energy Engineering - Female Only,8
+iit-bombay,Engineering Physics - Gender Neutral,48
+iit-bombay,Engineering Physics - Female Only,11
+iit-bombay,Environmental Science and Engineering - Gender Neutral,37
+iit-bombay,Environmental Science and Engineering - Female Only,9
+iit-bombay,Mechanical Engineering - Gender Neutral,160
+iit-bombay,Mechanical Engineering - Female Only,37
+iit-bombay,Metallurgical Engineering and Materials Science - Gender Neutral,109
+iit-bombay,Metallurgical Engineering and Materials Science - Female Only,24
+iit-bombay,BS in Mathematics - Gender Neutral,18
+iit-bombay,BS in Mathematics - Female Only,4
+iit-bombay,Chemistry - Gender Neutral,28
+iit-bombay,Chemistry - Female Only,7
+iit-bombay,Economics - Gender Neutral,28
+iit-bombay,Economics - Female Only,7
+iit-bombay,Electrical Engineering - Gender Neutral,72
+iit-bombay,Electrical Engineering - Female Only,18
+iit-bombay,Total,1356
+iit-mandi,Branch,Seats
+iit-mandi,B.Tech in General Engineering - Gender Neutral,24
+iit-mandi,B.Tech in General Engineering - Female Only,6
+iit-mandi,B.Tech in Materials Science and Engineering - Gender Neutral,24
+iit-mandi,B.Tech in Materials Science and Engineering - Female Only,6
+iit-mandi,B.Tech in Mathematics and Computing - Gender Neutral,24
+iit-mandi,B.Tech in Mathematics and Computing - Female Only,6
+iit-mandi,B.Tech in Microelectronics & VLSI - Gender Neutral,24
+iit-mandi,B.Tech in Microelectronics & VLSI - Female Only,6
+iit-mandi,Bio Engineering - Gender Neutral,24
+iit-mandi,Bio Engineering - Female Only,6
+iit-mandi,Civil Engineering - Gender Neutral,40
+iit-mandi,Civil Engineering - Female Only,10
+iit-mandi,Computer Science and Engineering - Gender Neutral,64
+iit-mandi,Computer Science and Engineering - Female Only,16
+iit-mandi,Data Science and Engineering - Gender Neutral,40
+iit-mandi,Data Science and Engineering - Female Only,10
+iit-mandi,Electrical Engineering - Gender Neutral,56
+iit-mandi,Electrical Engineering - Female Only,14
+iit-mandi,Engineering Physics - Gender Neutral,24
+iit-mandi,Engineering Physics - Female Only,6
+iit-mandi,Mechanical Engineering - Gender Neutral,48
+iit-mandi,Mechanical Engineering - Female Only,12
+iit-mandi,BS in Chemical Sciences - Gender Neutral,24
+iit-mandi,BS in Chemical Sciences - Female Only,6
+iit-mandi,Total,520
+iit-delhi,Branch,Seats
+iit-delhi,Biotechnology and Biochemical Engineering - Gender Neutral,57
+iit-delhi,Biotechnology and Biochemical Engineering - Female Only,15
+iit-delhi,Chemical Engineering - Gender Neutral,60
+iit-delhi,Chemical Engineering - Female Only,15
+iit-delhi,Civil Engineering - Gender Neutral,88
+iit-delhi,Civil Engineering - Female Only,22
+iit-delhi,Computer Science and Engineering - Gender Neutral,79
+iit-delhi,Computer Science and Engineering - Female Only,20
+iit-delhi,Electrical Engineering - Gender Neutral,96
+iit-delhi,Electrical Engineering - Female Only,24
+iit-delhi,Electrical Engineering (Power and Automation) - Gender Neutral,52
+iit-delhi,Electrical Engineering (Power and Automation) - Female Only,13
+iit-delhi,Energy Engineering - Gender Neutral,32
+iit-delhi,Energy Engineering - Female Only,8
+iit-delhi,Engineering and Computational Mechanics - Gender Neutral,32
+iit-delhi,Engineering and Computational Mechanics - Female Only,8
+iit-delhi,Engineering Physics - Gender Neutral,50
+iit-delhi,Engineering Physics - Female Only,13
+iit-delhi,Materials Engineering - Gender Neutral,32
+iit-delhi,Materials Engineering - Female Only,8
+iit-delhi,Mathematics and Computing - Gender Neutral,71
+iit-delhi,Mathematics and Computing - Female Only,18
+iit-delhi,Mechanical Engineering - Gender Neutral,76
+iit-delhi,Mechanical Engineering - Female Only,19
+iit-delhi,Production and Industrial Engineering - Gender Neutral,71
+iit-delhi,Production and Industrial Engineering - Female Only,18
+iit-delhi,Textile Technology - Gender Neutral,76
+iit-delhi,Textile Technology - Female Only,20
+iit-delhi,Chemical Engineering - Gender Neutral,36
+iit-delhi,Chemical Engineering - Female Only,10
+iit-delhi,Computer Science and Engineering - Gender Neutral,29
+iit-delhi,Computer Science and Engineering - Female Only,8
+iit-delhi,Mathematics and Computing - Gender Neutral,26
+iit-delhi,Mathematics and Computing - Female Only,7
+iit-delhi,Total,1209
+iit-indore,Branch,Seats
+iit-indore,Chemical Engineering - Gender Neutral,32
+iit-indore,Chemical Engineering - Female Only,8
+iit-indore,Civil Engineering - Gender Neutral,42
+iit-indore,Civil Engineering - Female Only,11
+iit-indore,Computer Science and Engineering - Gender Neutral,65
+iit-indore,Computer Science and Engineering - Female Only,17
+iit-indore,Electrical Engineering - Gender Neutral,67
+iit-indore,Electrical Engineering - Female Only,18
+iit-indore,Engineering Physics - Gender Neutral,16
+iit-indore,Engineering Physics - Female Only,4
+iit-indore,Mathematics and Computing - Gender Neutral,32
+iit-indore,Mathematics and Computing - Female Only,8
+iit-indore,Mechanical Engineering - Gender Neutral,69
+iit-indore,Mechanical Engineering - Female Only,18
+iit-indore,Metallurgical Engineering and Materials Science - Gender Neutral,42
+iit-indore,Metallurgical Engineering and Materials Science - Female Only,11
+iit-indore,Space Sciences and Engineering - Gender Neutral,16
+iit-indore,Space Sciences and Engineering - Female Only,4
+iit-indore,Total,480
+iit-kharagpur,Branch,Seats
+iit-kharagpur,Aerospace Engineering - Gender Neutral,36
+iit-kharagpur,Aerospace Engineering - Female Only,8
+iit-kharagpur,Agricultural and Food Engineering - Gender Neutral,40
+iit-kharagpur,Agricultural and Food Engineering - Female Only,8
+iit-kharagpur,Biotechnology and Biochemical Engineering - Gender Neutral,30
+iit-kharagpur,Biotechnology and Biochemical Engineering - Female Only,6
+iit-kharagpur,Chemical Engineering - Gender Neutral,65
+iit-kharagpur,Chemical Engineering - Female Only,14
+iit-kharagpur,Civil Engineering - Gender Neutral,72
+iit-kharagpur,Civil Engineering - Female Only,15
+iit-kharagpur,Computer Science and Engineering - Gender Neutral,66
+iit-kharagpur,Computer Science and Engineering - Female Only,14
+iit-kharagpur,Electrical Engineering - Gender Neutral,66
+iit-kharagpur,Electrical Engineering - Female Only,14
+iit-kharagpur,Electronics and Electrical Communication Engineering - Gender Neutral,74
+iit-kharagpur,Electronics and Electrical Communication Engineering - Female Only,16
+iit-kharagpur,Industrial and Systems Engineering - Gender Neutral,35
+iit-kharagpur,Industrial and Systems Engineering - Female Only,8
+iit-kharagpur,Instrumentation Engineering - Gender Neutral,36
+iit-kharagpur,Instrumentation Engineering - Female Only,8
+iit-kharagpur,Manufacturing Science and Engineering - Gender Neutral,36
+iit-kharagpur,Manufacturing Science and Engineering - Female Only,8
+iit-kharagpur,Mechanical Engineering - Gender Neutral,82
+iit-kharagpur,Mechanical Engineering - Female Only,17
+iit-kharagpur,Metallurgical and Materials Engineering - Gender Neutral,51
+iit-kharagpur,Metallurgical and Materials Engineering - Female Only,11
+iit-kharagpur,Mining Engineering - Gender Neutral,48
+iit-kharagpur,Mining Engineering - Female Only,11
+iit-kharagpur,Ocean Engineering and Naval Architecture - Gender Neutral,38
+iit-kharagpur,Ocean Engineering and Naval Architecture - Female Only,8
+iit-kharagpur,Applied Geology - Gender Neutral,43
+iit-kharagpur,Applied Geology - Female Only,9
+iit-kharagpur,Chemistry - Gender Neutral,37
+iit-kharagpur,Chemistry - Female Only,8
+iit-kharagpur,Economics - Gender Neutral,49
+iit-kharagpur,Economics - Female Only,10
+iit-kharagpur,Exploration Geophysics - Gender Neutral,37
+iit-kharagpur,Exploration Geophysics - Female Only,8
+iit-kharagpur,Mathematics and Computing - Gender Neutral,57
+iit-kharagpur,Mathematics and Computing - Female Only,12
+iit-kharagpur,Physics - Gender Neutral,40
+iit-kharagpur,Physics - Female Only,9
+iit-kharagpur,Architecture - Gender Neutral,32
+iit-kharagpur,Architecture - Female Only,8
+iit-kharagpur,Aerospace Engineering - Gender Neutral,21
+iit-kharagpur,Aerospace Engineering - Female Only,5
+iit-kharagpur,Agricultural and Food Engineering with M.Tech. in any of the listed specializations - Gender Neutral,37
+iit-kharagpur,Agricultural and Food Engineering with M.Tech. in any of the listed specializations - Female Only,8
+iit-kharagpur,Biotechnology and Biochemical Engineering - Gender Neutral,28
+iit-kharagpur,Biotechnology and Biochemical Engineering - Female Only,6
+iit-kharagpur,Chemical Engineering - Gender Neutral,30
+iit-kharagpur,Chemical Engineering - Female Only,6
+iit-kharagpur,Civil Engineering with any of the listed specialization - Gender Neutral,26
+iit-kharagpur,Civil Engineering with any of the listed specialization - Female Only,6
+iit-kharagpur,Computer Science and Engineering - Gender Neutral,49
+iit-kharagpur,Computer Science and Engineering - Female Only,11
+iit-kharagpur,Electrical Engineering with M.Tech. in any of the listed specializations - Gender Neutral,27
+iit-kharagpur,Electrical Engineering with M.Tech. in any of the listed specializations - Female Only,6
+iit-kharagpur,Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations - Gender Neutral,49
+iit-kharagpur,Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations - Female Only,11
+iit-kharagpur,Industrial and Systems Engineering with M.Tech. in Industrial and Systems Engineering and Management - Gender Neutral,24
+iit-kharagpur,Industrial and Systems Engineering with M.Tech. in Industrial and Systems Engineering and Management - Female Only,5
+iit-kharagpur,Manufacturing Science and Engineering with M.Tech. in Industrial and Systems Engineering and Management - Gender Neutral,18
+iit-kharagpur,Manufacturing Science and Engineering with M.Tech. in Industrial and Systems Engineering and Management - Female Only,4
+iit-kharagpur,Mechanical Engineering with M.Tech. in any of the listed specializations - Gender Neutral,60
+iit-kharagpur,Mechanical Engineering with M.Tech. in any of the listed specializations - Female Only,13
+iit-kharagpur,Metallurgical and Materials Engineering - Gender Neutral,25
+iit-kharagpur,Metallurgical and Materials Engineering - Female Only,6
+iit-kharagpur,Mining Engineering - Gender Neutral,23
+iit-kharagpur,Mining Engineering - Female Only,5
+iit-kharagpur,Mining Safety Engineering - Gender Neutral,21
+iit-kharagpur,Mining Safety Engineering - Female Only,5
+iit-kharagpur,Ocean Engineering and Naval Architecture - Gender Neutral,28
+iit-kharagpur,Ocean Engineering and Naval Architecture - Female Only,6
+iit-kharagpur,Total,1869
+iit-hyderabad,Branch,Seats
+iit-hyderabad,Artificial Intelligence - Gender Neutral,28
+iit-hyderabad,Artificial Intelligence - Female Only,7
+iit-hyderabad,Biomedical Engineering - Gender Neutral,20
+iit-hyderabad,Biomedical Engineering - Female Only,5
+iit-hyderabad,Biotechnology and Bioinformatics - Gender Neutral,20
+iit-hyderabad,Biotechnology and Bioinformatics - Female Only,5
+iit-hyderabad,Chemical Engineering - Gender Neutral,36
+iit-hyderabad,Chemical Engineering - Female Only,9
+iit-hyderabad,Civil Engineering - Gender Neutral,48
+iit-hyderabad,Civil Engineering - Female Only,12
+iit-hyderabad,Computational Engineering - Gender Neutral,20
+iit-hyderabad,Computational Engineering - Female Only,5
+iit-hyderabad,Computer Science and Engineering - Gender Neutral,52
+iit-hyderabad,Computer Science and Engineering - Female Only,13
+iit-hyderabad,Electrical Engineering - Gender Neutral,52
+iit-hyderabad,Electrical Engineering - Female Only,13
+iit-hyderabad,Electrical Engineering (IC Design and Technology) - Gender Neutral,20
+iit-hyderabad,Electrical Engineering (IC Design and Technology) - Female Only,5
+iit-hyderabad,Engineering Physics - Gender Neutral,28
+iit-hyderabad,Engineering Physics - Female Only,7
+iit-hyderabad,Engineering Science - Gender Neutral,32
+iit-hyderabad,Engineering Science - Female Only,8
+iit-hyderabad,Industrial Chemistry - Gender Neutral,20
+iit-hyderabad,Industrial Chemistry - Female Only,5
+iit-hyderabad,Materials Science and Metallurgical Engineering - Gender Neutral,28
+iit-hyderabad,Materials Science and Metallurgical Engineering - Female Only,7
+iit-hyderabad,Mathematics and Computing - Gender Neutral,20
+iit-hyderabad,Mathematics and Computing - Female Only,5
+iit-hyderabad,Mechanical Engineering - Gender Neutral,52
+iit-hyderabad,Mechanical Engineering - Female Only,13
+iit-hyderabad,Total,595
+iit-jodhpur,Branch,Seats
+iit-jodhpur,Artificial Intelligence and Data Science - Gender Neutral,40
+iit-jodhpur,Artificial Intelligence and Data Science - Female Only,10
+iit-jodhpur,Bio Engineering - Gender Neutral,40
+iit-jodhpur,Bio Engineering - Female Only,10
+iit-jodhpur,Chemical Engineering - Gender Neutral,40
+iit-jodhpur,Chemical Engineering - Female Only,10
+iit-jodhpur,Civil and Infrastructure Engineering - Gender Neutral,40
+iit-jodhpur,Civil and Infrastructure Engineering - Female Only,10
+iit-jodhpur,Computer Science and Engineering - Gender Neutral,64
+iit-jodhpur,Computer Science and Engineering - Female Only,16
+iit-jodhpur,Electrical Engineering - Gender Neutral,64
+iit-jodhpur,Electrical Engineering - Female Only,16
+iit-jodhpur,Materials Engineering - Gender Neutral,40
+iit-jodhpur,Materials Engineering - Female Only,10
+iit-jodhpur,Mechanical Engineering - Gender Neutral,64
+iit-jodhpur,Mechanical Engineering - Female Only,16
+iit-jodhpur,Chemistry with Specialization - Gender Neutral,24
+iit-jodhpur,Chemistry with Specialization - Female Only,6
+iit-jodhpur,Physics with Specialization - Gender Neutral,24
+iit-jodhpur,Physics with Specialization - Female Only,6
+iit-jodhpur,Total,550
+iit-kanpur,Branch,Seats
+iit-kanpur,Aerospace Engineering - Gender Neutral,55
+iit-kanpur,Aerospace Engineering - Female Only,14
+iit-kanpur,Biological Sciences and Bioengineering - Gender Neutral,42
+iit-kanpur,Biological Sciences and Bioengineering - Female Only,11
+iit-kanpur,Chemical Engineering - Gender Neutral,83
+iit-kanpur,Chemical Engineering - Female Only,21
+iit-kanpur,Civil Engineering - Gender Neutral,118
+iit-kanpur,Civil Engineering - Female Only,30
+iit-kanpur,Computer Science and Engineering - Gender Neutral,103
+iit-kanpur,Computer Science and Engineering - Female Only,26
+iit-kanpur,Electrical Engineering - Gender Neutral,153
+iit-kanpur,Electrical Engineering - Female Only,39
+iit-kanpur,Materials Science and Engineering - Gender Neutral,68
+iit-kanpur,Materials Science and Engineering - Female Only,17
+iit-kanpur,Mechanical Engineering - Gender Neutral,119
+iit-kanpur,Mechanical Engineering - Female Only,30
+iit-kanpur,Chemistry - Gender Neutral,39
+iit-kanpur,Chemistry - Female Only,10
+iit-kanpur,Earth Sciences - Gender Neutral,34
+iit-kanpur,Earth Sciences - Female Only,9
+iit-kanpur,Economics - Gender Neutral,41
+iit-kanpur,Economics - Female Only,11
+iit-kanpur,Mathematics and Scientific Computing - Gender Neutral,51
+iit-kanpur,Mathematics and Scientific Computing - Female Only,13
+iit-kanpur,Physics - Gender Neutral,36
+iit-kanpur,Physics - Female Only,9
+iit-kanpur,Statistics and Data Science - Gender Neutral,22
+iit-kanpur,Statistics and Data Science - Female Only,6
+iit-kanpur,Total,1210
+iit-madras,Branch,Seats
+iit-madras,Aerospace Engineering - Gender Neutral,50
+iit-madras,Aerospace Engineering - Female Only,13
+iit-madras,Biological Engineering - Gender Neutral,34
+iit-madras,Biological Engineering - Female Only,9
+iit-madras,Chemical Engineering - Gender Neutral,93
+iit-madras,Chemical Engineering - Female Only,24
+iit-madras,Civil Engineering - Gender Neutral,101
+iit-madras,Civil Engineering - Female Only,26
+iit-madras,Computer Science and Engineering - Gender Neutral,69
+iit-madras,Computer Science and Engineering - Female Only,18
+iit-madras,Electrical Engineering - Gender Neutral,123
+iit-madras,Electrical Engineering - Female Only,31
+iit-madras,Engineering Physics - Gender Neutral,33
+iit-madras,Engineering Physics - Female Only,9
+iit-madras,Mechanical Engineering - Gender Neutral,172
+iit-madras,Mechanical Engineering - Female Only,43
+iit-madras,Metallurgical and Materials Engineering - Gender Neutral,54
+iit-madras,Metallurgical and Materials Engineering - Female Only,14
+iit-madras,Naval Architecture and Ocean Engineering - Gender Neutral,62
+iit-madras,Naval Architecture and Ocean Engineering - Female Only,16
+iit-madras,Biological Science - Gender Neutral,34
+iit-madras,Biological Science - Female Only,9
+iit-madras,Aerospace Engineering - Gender Neutral,8
+iit-madras,Aerospace Engineering - Female Only,2
+iit-madras,Engineering Design - Gender Neutral,59
+iit-madras,Engineering Design - Female Only,15
+iit-madras,Physics - Gender Neutral,10
+iit-madras,Physics - Female Only,3
+iit-madras,Total,1134
+iit-gandhinagar,Branch,Seats
+iit-gandhinagar,Artificial Intelligence - Gender Neutral,24
+iit-gandhinagar,Artificial Intelligence - Female Only,6
+iit-gandhinagar,Chemical Engineering - Gender Neutral,40
+iit-gandhinagar,Chemical Engineering - Female Only,10
+iit-gandhinagar,Civil Engineering - Gender Neutral,32
+iit-gandhinagar,Civil Engineering - Female Only,8
+iit-gandhinagar,Computer Science and Engineering - Gender Neutral,40
+iit-gandhinagar,Computer Science and Engineering - Female Only,10
+iit-gandhinagar,Electrical Engineering - Gender Neutral,40
+iit-gandhinagar,Electrical Engineering - Female Only,10
+iit-gandhinagar,Materials Engineering - Gender Neutral,33
+iit-gandhinagar,Materials Engineering - Female Only,7
+iit-gandhinagar,Mechanical Engineering - Gender Neutral,40
+iit-gandhinagar,Mechanical Engineering - Female Only,10
+iit-gandhinagar,Computer Science and Engineering - Gender Neutral,16
+iit-gandhinagar,Computer Science and Engineering - Female Only,4
+iit-gandhinagar,Electrical Engineering - Gender Neutral,16
+iit-gandhinagar,Electrical Engineering - Female Only,4
+iit-gandhinagar,Mechanical Engineering - Gender Neutral,15
+iit-gandhinagar,Mechanical Engineering - Female Only,5
+iit-gandhinagar,Total,370
+iit-patna,Branch,Seats
+iit-patna,Artificial Intelligence and Data Science - Gender Neutral,40
+iit-patna,Artificial Intelligence and Data Science - Female Only,10
+iit-patna,Chemical Engineering - Gender Neutral,56
+iit-patna,Chemical Engineering - Female Only,14
+iit-patna,Chemical Science and Technology - Gender Neutral,32
+iit-patna,Chemical Science and Technology - Female Only,8
+iit-patna,Civil Engineering - Gender Neutral,56
+iit-patna,Civil Engineering - Female Only,14
+iit-patna,Computer Science and Engineering - Gender Neutral,69
+iit-patna,Computer Science and Engineering - Female Only,17
+iit-patna,Electrical and Electronics Engineering - Gender Neutral,40
+iit-patna,Electrical and Electronics Engineering - Female Only,10
+iit-patna,Electronics and Communication Engineering - Gender Neutral,40
+iit-patna,Electronics and Communication Engineering - Female Only,10
+iit-patna,Engineering Physics - Gender Neutral,32
+iit-patna,Engineering Physics - Female Only,8
+iit-patna,Mathematics and Computing - Gender Neutral,40
+iit-patna,Mathematics and Computing - Female Only,10
+iit-patna,Mechanical Engineering - Gender Neutral,69
+iit-patna,Mechanical Engineering - Female Only,17
+iit-patna,Metallurgical and Materials Engineering - Gender Neutral,37
+iit-patna,Metallurgical and Materials Engineering - Female Only,9
+iit-patna,B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems - Gender Neutral,8
+iit-patna,B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems - Female Only,2
+iit-patna,B. Tech. (ME) - MBA (NITIE) - Gender Neutral,12
+iit-patna,B. Tech. (ME) - MBA (NITIE) - Female Only,3
+iit-patna,B. Tech in CE. - M. Tech. in Geotechnical Engineering - Gender Neutral,8
+iit-patna,B. Tech in CE. - M. Tech. in Geotechnical Engineering - Female Only,2
+iit-patna,B. Tech in CE. - M. Tech. in Structural Engineering - Gender Neutral,8
+iit-patna,B. Tech in CE. - M. Tech. in Structural Engineering - Female Only,2
+iit-patna,B. Tech. (CSE) and M.Tech in CSE - Gender Neutral,8
+iit-patna,B. Tech. (CSE) and M.Tech in CSE - Female Only,2
+iit-patna,B. Tech. (ECE) -M. Tech. in VLSI - Gender Neutral,8
+iit-patna,B. Tech. (ECE) -M. Tech. in VLSI - Female Only,2
+iit-patna,B. Tech. (EEE)-M. Tech. in (Power &. Control) - Gender Neutral,8
+iit-patna,B. Tech. (EEE)-M. Tech. in (Power &. Control) - Female Only,2
+iit-patna,B. Tech. (Mathematics & Computing) M. Tech. in (Mathematics & Computing) - Gender Neutral,8
+iit-patna,B. Tech. (Mathematics & Computing) M. Tech. in (Mathematics & Computing) - Female Only,2
+iit-patna,B. Tech. (ME) - M. Tech. in Mechatronics - Gender Neutral,8
+iit-patna,B. Tech. (ME) - M. Tech. in Mechatronics - Female Only,2
+iit-patna,Total,733
+iit-roorkee,Branch,Seats
+iit-roorkee,Biosciences and Bioengineering - Gender Neutral,36
+iit-roorkee,Biosciences and Bioengineering - Female Only,10
+iit-roorkee,Chemical Engineering - Gender Neutral,93
+iit-roorkee,Chemical Engineering - Female Only,24
+iit-roorkee,Civil Engineering - Gender Neutral,139
+iit-roorkee,Civil Engineering - Female Only,35
+iit-roorkee,Computer Science and Engineering - Gender Neutral,87
+iit-roorkee,Computer Science and Engineering - Female Only,22
+iit-roorkee,Data Science and Artificial Intelligence - Gender Neutral,32
+iit-roorkee,Data Science and Artificial Intelligence - Female Only,8
+iit-roorkee,Electrical Engineering - Gender Neutral,132
+iit-roorkee,Electrical Engineering - Female Only,33
+iit-roorkee,Electronics and Communication Engineering - Gender Neutral,87
+iit-roorkee,Electronics and Communication Engineering - Female Only,22
+iit-roorkee,Engineering Physics - Gender Neutral,40
+iit-roorkee,Engineering Physics - Female Only,10
+iit-roorkee,Mechanical Engineering - Gender Neutral,120
+iit-roorkee,Mechanical Engineering - Female Only,30
+iit-roorkee,Metallurgical and Materials Engineering - Gender Neutral,65
+iit-roorkee,Metallurgical and Materials Engineering - Female Only,17
+iit-roorkee,Production and Industrial Engineering - Gender Neutral,46
+iit-roorkee,Production and Industrial Engineering - Female Only,12
+iit-roorkee,Architecture - Gender Neutral,23
+iit-roorkee,Architecture - Female Only,7
+iit-roorkee,Geological Technology - Gender Neutral,30
+iit-roorkee,Geological Technology - Female Only,8
+iit-roorkee,Geophysical Technology - Gender Neutral,32
+iit-roorkee,Geophysical Technology - Female Only,9
+iit-roorkee,Chemical Sciences - Gender Neutral,28
+iit-roorkee,Chemical Sciences - Female Only,7
+iit-roorkee,Economics - Gender Neutral,26
+iit-roorkee,Economics - Female Only,7
+iit-roorkee,Mathematics & Computing - Gender Neutral,39
+iit-roorkee,Mathematics & Computing - Female Only,10
+iit-roorkee,Physics - Gender Neutral,21
+iit-roorkee,Physics - Female Only,6
+iit-roorkee,Total,1353
+iit-ism-dhanbad,Branch,Seats
+iit-ism-dhanbad,Chemical Engineering - Gender Neutral,44
+iit-ism-dhanbad,Chemical Engineering - Female Only,11
+iit-ism-dhanbad,Civil Engineering - Gender Neutral,55
+iit-ism-dhanbad,Civil Engineering - Female Only,14
+iit-ism-dhanbad,Computer Science and Engineering - Gender Neutral,111
+iit-ism-dhanbad,Computer Science and Engineering - Female Only,28
+iit-ism-dhanbad,Electrical Engineering - Gender Neutral,98
+iit-ism-dhanbad,Electrical Engineering - Female Only,25
+iit-ism-dhanbad,Electronics and Communication Engineering - Gender Neutral,99
+iit-ism-dhanbad,Electronics and Communication Engineering - Female Only,25
+iit-ism-dhanbad,Engineering Physics - Gender Neutral,25
+iit-ism-dhanbad,Engineering Physics - Female Only,6
+iit-ism-dhanbad,Environmental Engineering - Gender Neutral,38
+iit-ism-dhanbad,Environmental Engineering - Female Only,10
+iit-ism-dhanbad,Mechanical Engineering - Gender Neutral,105
+iit-ism-dhanbad,Mechanical Engineering - Female Only,26
+iit-ism-dhanbad,Mineral and Metallurgical Engineering - Gender Neutral,36
+iit-ism-dhanbad,Mineral and Metallurgical Engineering - Female Only,9
+iit-ism-dhanbad,Mining Engineering - Gender Neutral,94
+iit-ism-dhanbad,Mining Engineering - Female Only,23
+iit-ism-dhanbad,Mining Machinery Engineering - Gender Neutral,45
+iit-ism-dhanbad,Mining Machinery Engineering - Female Only,11
+iit-ism-dhanbad,Petroleum Engineering - Gender Neutral,72
+iit-ism-dhanbad,Petroleum Engineering - Female Only,18
+iit-ism-dhanbad,Applied Geology - Gender Neutral,17
+iit-ism-dhanbad,Applied Geology - Female Only,4
+iit-ism-dhanbad,Applied Geophysics - Gender Neutral,17
+iit-ism-dhanbad,Applied Geophysics - Female Only,4
+iit-ism-dhanbad,Mathematics and Computing - Gender Neutral,44
+iit-ism-dhanbad,Mathematics and Computing - Female Only,11
+iit-ism-dhanbad,Total,1125
+iit-ropar,Branch,Seats
+iit-ropar,Artificial Intelligence and Data Engineering - Gender Neutral,16
+iit-ropar,Artificial Intelligence and Data Engineering - Female Only,4
+iit-ropar,Chemical Engineering - Gender Neutral,28
+iit-ropar,Chemical Engineering - Female Only,7
+iit-ropar,Civil Engineering - Gender Neutral,28
+iit-ropar,Civil Engineering - Female Only,7
+iit-ropar,Computer Science and Engineering - Gender Neutral,67
+iit-ropar,Computer Science and Engineering - Female Only,17
+iit-ropar,Electrical Engineering - Gender Neutral,67
+iit-ropar,Electrical Engineering - Female Only,17
+iit-ropar,Engineering Physics - Gender Neutral,20
+iit-ropar,Engineering Physics - Female Only,5
+iit-ropar,Mathematics and Computing - Gender Neutral,29
+iit-ropar,Mathematics and Computing - Female Only,7
+iit-ropar,Mechanical Engineering - Gender Neutral,67
+iit-ropar,Mechanical Engineering - Female Only,16
+iit-ropar,Metallurgical and Materials Engineering - Gender Neutral,22
+iit-ropar,Metallurgical and Materials Engineering - Female Only,6
+iit-ropar,Total,430
+iit-guwahati,Branch,Seats
+iit-guwahati,Biosciences and Bioengineering - Gender Neutral,67
+iit-guwahati,Biosciences and Bioengineering - Female Only,17
+iit-guwahati,Chemical Engineering - Gender Neutral,77
+iit-guwahati,Chemical Engineering - Female Only,20
+iit-guwahati,Chemical Science and Technology - Gender Neutral,52
+iit-guwahati,Chemical Science and Technology - Female Only,13
+iit-guwahati,Civil Engineering - Gender Neutral,93
+iit-guwahati,Civil Engineering - Female Only,24
+iit-guwahati,Computer Science and Engineering - Gender Neutral,91
+iit-guwahati,Computer Science and Engineering - Female Only,23
+iit-guwahati,Data Science and Artificial Intelligence - Gender Neutral,24
+iit-guwahati,Data Science and Artificial Intelligence - Female Only,6
+iit-guwahati,Electronics and Communication Engineering - Gender Neutral,83
+iit-guwahati,Electronics and Communication Engineering - Female Only,21
+iit-guwahati,Electronics and Electrical Engineering - Gender Neutral,49
+iit-guwahati,Electronics and Electrical Engineering - Female Only,13
+iit-guwahati,Energy Engineering - Gender Neutral,16
+iit-guwahati,Energy Engineering - Female Only,4
+iit-guwahati,Engineering Physics - Gender Neutral,54
+iit-guwahati,Engineering Physics - Female Only,14
+iit-guwahati,Mathematics and Computing - Gender Neutral,57
+iit-guwahati,Mathematics and Computing - Female Only,15
+iit-guwahati,Mechanical Engineering - Gender Neutral,95
+iit-guwahati,Mechanical Engineering - Female Only,24
+iit-guwahati,Total,952
+iit-bhilai,Branch,Seats
+iit-bhilai,Computer Science and Engineering - Gender Neutral,44
+iit-bhilai,Computer Science and Engineering - Female Only,11
+iit-bhilai,Data Science and Artificial Intelligence - Gender Neutral,32
+iit-bhilai,Data Science and Artificial Intelligence - Female Only,8
+iit-bhilai,Electrical Engineering - Gender Neutral,43
+iit-bhilai,Electrical Engineering - Female Only,11
+iit-bhilai,Materials Science and Metallurgical Engineering - Gender Neutral,16
+iit-bhilai,Materials Science and Metallurgical Engineering - Female Only,4
+iit-bhilai,Mechanical Engineering - Gender Neutral,43
+iit-bhilai,Mechanical Engineering - Female Only,11
+iit-bhilai,Mechatronics Engineering - Gender Neutral,16
+iit-bhilai,Mechatronics Engineering - Female Only,4
+iit-bhilai,Total,243
+iit-goa,Branch,Seats
+iit-goa,Computer Science and Engineering - Gender Neutral,32
+iit-goa,Computer Science and Engineering - Female Only,8
+iit-goa,Electrical Engineering - Gender Neutral,34
+iit-goa,Electrical Engineering - Female Only,9
+iit-goa,Mathematics and Computing - Gender Neutral,23
+iit-goa,Mathematics and Computing - Female Only,6
+iit-goa,Mechanical Engineering - Gender Neutral,36
+iit-goa,Mechanical Engineering - Female Only,9
+iit-goa,Total,157
+iit-palakkad,Branch,Seats
+iit-palakkad,Civil Engineering - Gender Neutral,32
+iit-palakkad,Civil Engineering - Female Only,8
+iit-palakkad,Computer Science and Engineering - Gender Neutral,32
+iit-palakkad,Computer Science and Engineering - Female Only,8
+iit-palakkad,Data Science and Engineering - Gender Neutral,32
+iit-palakkad,Data Science and Engineering - Female Only,8
+iit-palakkad,Electrical Engineering - Gender Neutral,32
+iit-palakkad,Electrical Engineering - Female Only,8
+iit-palakkad,Mechanical Engineering - Gender Neutral,32
+iit-palakkad,Mechanical Engineering - Female Only,8
+iit-palakkad,Total,200
+iit-tirupati,Branch,Seats
+iit-tirupati,Chemical Engineering - Gender Neutral,31
+iit-tirupati,Chemical Engineering - Female Only,8
+iit-tirupati,Civil Engineering - Gender Neutral,30
+iit-tirupati,Civil Engineering - Female Only,9
+iit-tirupati,Computer Science and Engineering - Gender Neutral,42
+iit-tirupati,Computer Science and Engineering - Female Only,11
+iit-tirupati,Electrical Engineering - Gender Neutral,47
+iit-tirupati,Electrical Engineering - Female Only,13
+iit-tirupati,Mechanical Engineering - Gender Neutral,43
+iit-tirupati,Mechanical Engineering - Female Only,10
+iit-tirupati,Total,244
+iit-jammu,Branch,Seats
+iit-jammu,Chemical Engineering - Gender Neutral,32
+iit-jammu,Chemical Engineering - Female Only,8
+iit-jammu,Civil Engineering - Gender Neutral,32
+iit-jammu,Civil Engineering - Female Only,8
+iit-jammu,Computer Science and Engineering - Gender Neutral,32
+iit-jammu,Computer Science and Engineering - Female Only,8
+iit-jammu,Electrical Engineering - Gender Neutral,32
+iit-jammu,Electrical Engineering - Female Only,8
+iit-jammu,Materials Engineering - Gender Neutral,32
+iit-jammu,Materials Engineering - Female Only,8
+iit-jammu,Mathematics and Computing - Gender Neutral,32
+iit-jammu,Mathematics and Computing - Female Only,8
+iit-jammu,Mechanical Engineering - Gender Neutral,32
+iit-jammu,Mechanical Engineering - Female Only,8
+iit-jammu,Total,280
+iit-dharwad,Branch,Seats
+iit-dharwad,Chemical and Biochemical Engineering - Gender Neutral,12
+iit-dharwad,Chemical and Biochemical Engineering - Female Only,3
+iit-dharwad,Civil and Infrastructure Engineering - Gender Neutral,12
+iit-dharwad,Civil and Infrastructure Engineering - Female Only,3
+iit-dharwad,Computer Science and Engineering - Gender Neutral,52
+iit-dharwad,Computer Science and Engineering - Female Only,13
+iit-dharwad,Electrical Engineering - Gender Neutral,48
+iit-dharwad,Electrical Engineering - Female Only,12
+iit-dharwad,Engineering Physics - Gender Neutral,12
+iit-dharwad,Engineering Physics - Female Only,3
+iit-dharwad,Mathematics and Computing - Gender Neutral,24
+iit-dharwad,Mathematics and Computing - Female Only,6
+iit-dharwad,Mechanical Engineering - Gender Neutral,40
+iit-dharwad,Mechanical Engineering - Female Only,10
+iit-dharwad,Interdisciplinary Sciences - Gender Neutral,48
+iit-dharwad,Interdisciplinary Sciences - Female Only,12
+iit-dharwad,Total,310
+iit-bhu,Ceramic Engineering - Gender Neutral,61
+iit-bhu,Ceramic Engineering - Female Only,14
+iit-bhu,Chemical Engineering - Gender Neutral,124
+iit-bhu,Chemical Engineering - Female Only,32
+iit-bhu,Civil Engineering - Gender Neutral,98
+iit-bhu,Civil Engineering - Female Only,22
+iit-bhu,Computer Science and Engineering - Gender Neutral,80
+iit-bhu,Computer Science and Engineering - Female Only,19
+iit-bhu,Electrical Engineering - Gender Neutral,92
+iit-bhu,Electrical Engineering - Female Only,23
+iit-bhu,Electronics Engineering - Gender Neutral,105
+iit-bhu,Electronics Engineering - Female Only,28
+iit-bhu,Mechanical Engineering - Gender Neutral,118
+iit-bhu,Mechanical Engineering - Female Only,30
+iit-bhu,Metallurgical Engineering - Gender Neutral,85
+iit-bhu,Metallurgical Engineering - Female Only,21
+iit-bhu,Mining Engineering - Gender Neutral,105
+iit-bhu,Mining Engineering - Female Only,26
+iit-bhu,Pharmaceutical Engineering & Technology - Gender Neutral,65
+iit-bhu,Pharmaceutical Engineering & Technology - Female Only,15
+iit-bhu,Architecture - Gender Neutral,21
+iit-bhu,Architecture - Female Only,5
+iit-bhu,Biochemical Engineering with M.Tech. in Biochemical Engineering and Biotechnology - Gender Neutral,21
+iit-bhu,Biochemical Engineering with M.Tech. in Biochemical Engineering and Biotechnology - Female Only,4
+iit-bhu,Bioengineering with M.Tech in Biomedical Technology - Gender Neutral,17
+iit-bhu,Bioengineering with M.Tech in Biomedical Technology - Female Only,4
+iit-bhu,Ceramic Engineering - Gender Neutral,16
+iit-bhu,Ceramic Engineering - Female Only,4
+iit-bhu,Civil Engineering - Gender Neutral,24
+iit-bhu,Civil Engineering - Female Only,6
+iit-bhu,Computer Science and Engineering - Gender Neutral,26
+iit-bhu,Computer Science and Engineering - Female Only,8
+iit-bhu,Electrical Engineering with M.Tech. in Power Electronics - Gender Neutral,23
+iit-bhu,Electrical Engineering with M.Tech. in Power Electronics - Female Only,7
+iit-bhu,Engineering Physics - Gender Neutral,23
+iit-bhu,Engineering Physics - Female Only,5
+iit-bhu,Industrial Chemistry - Gender Neutral,16
+iit-bhu,Industrial Chemistry - Female Only,5
+iit-bhu,Materials Science and Technology - Gender Neutral,22
+iit-bhu,Materials Science and Technology - Female Only,6
+iit-bhu,Mathematics and Computing - Gender Neutral,41
+iit-bhu,Mathematics and Computing - Female Only,11
+iit-bhu,Mechanical Engineering - Gender Neutral,26
+iit-bhu,Mechanical Engineering - Female Only,6
+iit-bhu,Metallurgical Engineering - Gender Neutral,23
+iit-bhu,Metallurgical Engineering - Female Only,5
+iit-bhu,Mining Engineering - Gender Neutral,23
+iit-bhu,Mining Engineering - Female Only,7
+iit-bhu,Pharmaceutical Engineering & Technology - Gender Neutral,16
+iit-bhu,Pharmaceutical Engineering & Technology - Female Only,5
+iit-bhu,Total,1589
